@@ -2,7 +2,7 @@
 
 This is provided only for educational purposes and is not intended to be a fast and production-ready AES implementation.
 
-The version of AES to use is choosen depending on the size of the provided key.
+The version of AES to use is chosen based on the size of the key provided.
 
 See folder `example` for how to use the code to cipher streams.
 
